@@ -1,0 +1,12 @@
+{
+    "name": "rex-widgets-hub",
+    "main": "index.js",
+    "compatibility_date": "2026-10-08",
+    "keep_vars": true,
+    "kv_namespaces": [
+        {
+            "binding": "REX_KV",
+            "id": "c5e0534bba55463fbb3ba75e7419630d"
+        }
+    ]
+}
